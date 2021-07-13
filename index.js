@@ -1,8 +1,9 @@
 /**
- * Titel: Simple Node App
+ * Title: Simple Node App
+ * Inspires by Learn With Sumit
  * Description: 
  * Author: Anik Hossain
- * Date: 7/11/2019
+ * Date: 7/14/2021
  */
 
 // Dependencies
