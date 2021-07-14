@@ -1,6 +1,6 @@
 /**
  * Title: Simple Node App
- * Inspires by Learn With Sumit
+ * Inspired by Learn With Sumit
  * Description: 
  * Author: Anik Hossain
  * Date: 7/14/2021
@@ -15,7 +15,7 @@ const app = {}
 
 // Configuration
 app.config = {
-    timeBetweenQuotes: 1000
+    timeBetweenQuotes: 5000
 }
 
 app.printAQuote = function printAQuote() {
@@ -33,6 +33,7 @@ app.printAQuote = function printAQuote() {
 
     // Print the quote to the console
     console.log(selectQuote);
+    console.log();
 }
 
 // Function that loops indefintely
